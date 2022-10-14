@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><samp>Hello! I am <b color="green">loukilihicham</b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b color="green">loukili hicham</b></samp></h3>
 <p align="center">
     <samp>
 「 🐦 Fullstack developer 」
