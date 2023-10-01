@@ -20,9 +20,9 @@ Here are some ideas to get you started:
    </samp>
 </p>
 <ul>
-    <li>🔭 I’m currently Software Engineering student</li>
+    <li>🔭 I’m currently Software Engineer</li>
     <li>🌱 I’m currently learning everything</li>
-    <li>🥅 2023 Goals: Learn more about Java and Angular</li>
+    <li>🥅 2024 Goals: Learn more about Java and React</li>
 </ul>
 
 ### Languages and Tools:
